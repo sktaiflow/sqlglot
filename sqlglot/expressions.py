@@ -2340,7 +2340,7 @@ class LoadData(Expression):
         "this": True,
         "local": False,
         "overwrite": False,
-        "inpath": True,
+        "inpath": False,
         "partition": False,
         "input_format": False,
         "serde": False,
